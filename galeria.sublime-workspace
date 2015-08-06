@@ -1,0 +1,501 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"canc",
+				"cancelado"
+			],
+			[
+				"ca",
+				"cancel"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"st",
+				"stpartido"
+			],
+			[
+				"se",
+				"setUTCDate〔function〕"
+			],
+			[
+				"set",
+				"setHours〔function〕"
+			],
+			[
+				"date",
+				"dateReg"
+			],
+			[
+				"requi",
+				"required〔variable〕"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"im",
+				"import"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"tot",
+				"total2"
+			],
+			[
+				"aux",
+				"$aux2〔variable〕"
+			],
+			[
+				"CON",
+				"$CONTENIDO〔variable〕"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"qui",
+				"$quiniela〔variable〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"pri",
+				"print_r〔function〕"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"r",
+				"right〔value〕"
+			],
+			[
+				"w",
+				"width: 〔property〕"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"re",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"ty",
+				"$typeReturn〔variable〕"
+			],
+			[
+				"jso",
+				"json_encode〔function〕"
+			],
+			[
+				"resul",
+				"$resultado〔variable〕"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"he",
+				"height: 〔property〕"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"apellidoma",
+				"$apellidoma_usu〔variable〕"
+			],
+			[
+				"apell",
+				"apellidoma"
+			],
+			[
+				"MA",
+				"Materno"
+			],
+			[
+				"ape",
+				"apellidoma_usu"
+			],
+			[
+				"ap",
+				"apellidopa"
+			],
+			[
+				"nom",
+				"$nombre_usu〔variable〕"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"arre",
+				"arregloUnicoAsoc"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"heda",
+				"header	Tag"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "contr",
+		"selected_items":
+		[
+			[
+				"contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 792.0
+	},
+	"console":
+	{
+		"height": 213.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/quinielas",
+		"/C/xampp/htdocs/quinielas/mxquinielas",
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas",
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas/funcionalidad",
+		"/C/xampp/htdocs/quinielas/mxquinielas/includes",
+		"/C/xampp/htdocs/quinielas/mxquinielas/includes/css",
+		"/C/xampp/htdocs/quinielas/mxquinielas/vistas",
+		"/C/xampp/htdocs/quinielas/mxquinielas/vistas/usuario",
+		"/C/xampp/htdocs/quinielas/mxquinielas/vistas/usuario/contenido"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas/funcionalidad/mostrarQuinielas.php",
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas/funcionalidad/query.php",
+		"/C/xampp/htdocs/quinielas/mxquinielas/includes/css/estilos_usu.css",
+		"/C/xampp/htdocs/quinielas/mxquinielas/includes/js/usuarios.js",
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas/config/configdb.php",
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas/funcionalidad/agregarQuinielas.php",
+		"/C/xampp/htdocs/quinielas/mxquinielas/includes/css/estiloForm.css",
+		"/C/xampp/htdocs/quinielas/mxquinielas/includes/js/edit.js",
+		"/C/xampp/htdocs/quinielas/mxquinielas/herramientas/funcionalidad/editarUsuario.php",
+		"/C/xampp/htdocs/quinielas/herramientas/funcionalidad/query.php",
+		"/C/xampp/htdocs/quinielas/includes/css/estilos_usu.css",
+		"/C/xampp/htdocs/quinielas/includes/css/estilosGralUsu.css",
+		"/C/xampp/htdocs/quinielas/includes/js/usuarios.js",
+		"/C/xampp/htdocs/quinielas/herramientas/funcionalidad/mostrarQuinielas.php",
+		"/C/xampp/htdocs/quinielas/vistas/usuario/contenido/quinielas.php",
+		"/C/xampp/htdocs/quinielas/vistas/usuario/contenido/perfil.php",
+		"/C/xampp/htdocs/quinielas/includes/css/estiloForm.css",
+		"/C/xampp/htdocs/quinielas/includes/js/edit.js",
+		"/C/xampp/htdocs/quinielas/herramientas/funcionalidad/ajax.php",
+		"/C/xampp/htdocs/quinielas/herramientas/funcionalidad/editarUsuario.php",
+		"/C/xampp/htdocs/quinielas/herramientas/seguridad/acceso.php",
+		"/C/xampp/htdocs/quinielas/vistas/general/Instrucciones.php",
+		"/C/xampp/htdocs/quinielas/vistas/usuario/Principal.php",
+		"/C/xampp/htdocs/quinielas/vistas/index.php",
+		"/C/xampp/htdocs/quinielas/includes/js/jquery.validate.min.js",
+		"/C/xampp/htdocs/quinielas/includes/jquery/jquery.validate.min.js",
+		"/C/xampp/htdocs/quinielas/vistas/template.php",
+		"/C/xampp/htdocs/quinielas/vistas/usuario/Inicio.php",
+		"/C/xampp/htdocs/quinielas/vistas/usuario/contenido/error.php",
+		"/C/xampp/htdocs/quinielas/herramientas/config/msjErrores.php",
+		"/C/xampp/htdocs/quinielas/vistas/instrucciones/index.php",
+		"/C/xampp/htdocs/quinielas/vistas/administrador/Principal.php",
+		"/C/xampp/htdocs/quinielas/vistas/usuario/contenido/logueo.php",
+		"/C/xampp/htdocs/javascript/js/test.js",
+		"/C/Users/Gilberto/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/javascript/index.php",
+		"/C/Users/Gilberto/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Gilberto/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cancelado",
+			"tbEquipos",
+			"bordeIzq",
+			"bordeDer",
+			"ctrl+/",
+			"ctrl+escape"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "galeria.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\galeria\\galeria.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
